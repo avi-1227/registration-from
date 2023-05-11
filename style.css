@@ -63,3 +63,9 @@ input, textarea{
     
     color:#ffffff;
   }
+
+/* Add New style submit button_11.05.2023 */
+  input[type="submit"]{
+    display:block;
+    width:60%;
+  }
