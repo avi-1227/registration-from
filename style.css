@@ -25,6 +25,8 @@ form {
     max-width: 500px;
     min-width: 300px;
     width: 60vw;
+    /* Adding paading bottom in form_11.05.2023 */
+    padding-bottom:2em;
 }
 
 fieldset {
@@ -76,3 +78,12 @@ input[type="submit"] {
     border-color: white;
     min-width: 300px;
 }
+/* Add New style on input file type="file"_11.05.2023 */
+input[type="file"]{
+    padding: 1px 2px;
+  }
+
+  /* Add New style on anchor link color_11.05.2023 */
+  a{
+    color:#dfdfe2;
+  }
