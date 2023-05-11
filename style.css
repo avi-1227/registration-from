@@ -42,6 +42,8 @@ textarea,
 select {
     width: 100%;
     margin: 10px 0px 0px 0px;
+    /*Add new 11.05.2023*/
+    min-height: 2em; 
 }
 
 .inline {
@@ -54,8 +56,10 @@ select {
     vertical-align:middle;
 }
 
-/* Add New style on input and text area field */
+/* Add New style on input and text area field_11.05.2023 */
 input, textarea{
     background-color:#0a0a23;
     border:1px solid #0a0a23;
+    
+    color:#ffffff;
   }
