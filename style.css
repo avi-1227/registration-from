@@ -51,4 +51,11 @@ select {
     margin-left: 0;
     margin-bottom: 0;
     margin-top: 0;
+    vertical-align:middle;
 }
+
+/* Add New style on input and text area field */
+input, textarea{
+    background-color:#0a0a23;
+    border:1px solid #0a0a23;
+  }
